@@ -5,10 +5,10 @@ a small tool that let you creat gempy model from sketches
 - a sketches-to-data generator (2D to 2.5D)
 ## How to use
 - sketches-to-model generator with GUI
-![Alt text](imgaes/step1)
-![Alt text](imgaes/step2)
-![Alt text](imgaes/step3)
-![Alt text](imgaes/step4)
+![Alt text](imgaes/step1.png)
+![Alt text](imgaes/step2.png)
+![Alt text](imgaes/step3.png)
+![Alt text](imgaes/step4.png)
 
 - sketches-to-data generator (2D to 2.5D)
-![Alt text](imgaes/how_to_use)
+![Alt text](imgaes/how_to_use.png)
